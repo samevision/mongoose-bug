@@ -1,0 +1,5 @@
+next/node_modules
+next/package-lock.json
+next/.next
+@package/bug/node_modules
+@package/bug/package-lock.json

@@ -1,0 +1,14 @@
+{
+  "name": "bug",
+  "version": "1.0.0",
+  "author": "",
+  "scripts": {
+    "dev": "next dev -p 4000",
+    "build": "next build",
+    "start": "next start -p 4000"
+  },
+  "dependencies": {
+    "mongoose": "^7.0.3",
+    "next": "^13.3.0"
+  }
+}

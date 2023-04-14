@@ -1,0 +1,11 @@
+{
+  "name": "@package/bug",
+  "version": "1.0.0",
+  "author": "",
+  "exports": {
+    "./*": "./src/*"
+  },
+  "dependencies": {
+    "mongoose": "^7.0.3"
+  }
+}
